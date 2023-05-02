@@ -1,8 +1,7 @@
 
+
 <h1 align="center">Hello 👋, I'm Nour Ayman Abdullah</h1>
 <h3 align="center">I am a computer science student at Cairo university</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itsalaassar" alt="itsalaassar" /></a> </p>
 
 - 🌱 I’m currently learning **everything**
 
@@ -20,5 +19,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsalaassar&show_icons=true&locale=en&layout=compact" alt="itsalaassar" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itsalaassar&" alt="itsalaassar" /></p>
-
 
