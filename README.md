@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hello, I'm Nour Ayman Abdullah</h1>
-<h3 align="center">I am a computer science student at Cairo university</h3>
+<h3 align="left">I am a computer science student at Cairo university</h3>
 
 - 🌱 I’m currently learning **everything**
 
