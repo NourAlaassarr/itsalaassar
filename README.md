@@ -3,7 +3,11 @@
 <h1 align="center">Hello, I'm Nour Ayman Abdullah</h1>
 <h3 align="left">I am a computer science student at Cairo university</h3>
 
-- 🌱 I’m currently learning **everything**
+- 🌱 I’m currently learning **Node.j and mongoDB**
+
+👯 I’m looking to collaborate on **Node.js Backend projects**
+
+🔭 I’m currently seeking **internships in software development**
 
 - 📫 How to reach me **nour.alaassar09@gmail.com**
 
