@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **Node.j and mongoDB**
 
-👯 I’m looking to collaborate on **Node.js Backend projects**
+-👯 I’m looking to collaborate on **Node.js Backend projects**
 
-🔭 I’m currently seeking **internships in software development**
+-🔭 I’m currently seeking **internships in software development**
 
 - 📫 How to reach me **nour.alaassar09@gmail.com**
 
