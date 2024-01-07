@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Node.js Backend projects**
 
-- 🔭 I’m currently seeking **internships in software development**
+- 🔭 I’m currently seeking **internships in BackEnd development**
 
 - 📫 How to reach me **nour.alaassar09@gmail.com**
 
