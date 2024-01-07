@@ -3,7 +3,6 @@
 <h1 align="center">Hello, I'm Nour Ayman Abdullah</h1>
 <h3 align="left">I am a computer science student at Cairo university</h3>
 
-- 🌱 I’m currently learning **Node.j and mongoDB**
 
 - 👯 I’m looking to collaborate on **Node.js Backend projects**
 
