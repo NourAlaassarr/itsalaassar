@@ -21,5 +21,5 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsalaassar&show_icons=true&locale=en&layout=compact" alt="itsalaassar" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itsalaassar&" alt="itsalaassar" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NourAlaassarr&" alt="NourAlaassarr" /></p>
 
